@@ -10,11 +10,11 @@ Done right, this procedure will make any sound system better, and it will make a
 
 This procedure can work with anything, basically, but here's what I'm working with, for context. Adapt the notes here according to your own system.
 
-Speakers: (2) Meridian DSP5200SL
-Speaker Controller: Meridian G61RSL
-Subwoofers: (2) SVS SB3000
-DSP Preamp: miniDSP SHD
-Measurement Mic: UMIK-1 from miniDSP
+- Speakers: (2) Meridian DSP5200SL
+- Speaker Controller: Meridian G61RSL
+- Subwoofers: (2) SVS SB3000
+- DSP Preamp: miniDSP SHD
+- Measurement Mic: UMIK-1 from miniDSP
 
 This is a 2.2 stereo system, with two main speakers and two subwoofers.
 
@@ -24,10 +24,10 @@ The speaker controller is connected to digital channels 1 & 2 on the miniDSP, an
 
 Essentially,
 
-Left Speaker - miniDSP Channel 1 (digital)
-Right Speaker - miniDSP Channel 2 (digital)
-Left Subwoofer - miniDSP Channel 3 (analog)
-Right Subwoofer - miniDSP Channel 4 (analog)
+- Left Speaker - miniDSP Channel 1 (digital)
+- Right Speaker - miniDSP Channel 2 (digital)
+- Left Subwoofer - miniDSP Channel 3 (analog)
+- Right Subwoofer - miniDSP Channel 4 (analog)
 
 ## What we're going to do
 
